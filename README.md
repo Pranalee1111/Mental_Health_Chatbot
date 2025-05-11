@@ -18,5 +18,12 @@ This is a Mental Health Chatbot built using Python and deep learning that simula
 - JSON
 - Pickle
 
+## Output
+
+![Screenshot 2025-05-11 110706](https://github.com/user-attachments/assets/98922204-48ea-4e00-a0f6-b5514b11f837)
+
+
+![Screenshot 2025-05-11 110028](https://github.com/user-attachments/assets/0531f067-e2b0-419d-81dd-e2011693991b)
+
 
 
